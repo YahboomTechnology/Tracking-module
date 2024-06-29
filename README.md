@@ -11,8 +11,7 @@ This tracking module adopts four tracking probes, and optimized spacing layout. 
 * Knob adjustment, out linear adjustable range
 * Provide reference materials, drive source codes and tools of graphical programming.
 
-![](https://github.com/YahboomTechnology/Tracking-module/blob/master/TrackingModule_Parameter1.jpg)
-![](https://github.com/YahboomTechnology/Tracking-module/blob/master/TrackingModule_Parameter2.jpg)
+
 # More Details
 [Got Module](https://category.yahboom.net/products/tracking-sensor)
 
