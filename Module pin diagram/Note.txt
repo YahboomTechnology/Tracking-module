@@ -1,0 +1,7 @@
+If the silkscreen markings on the bottom of your physical four-way line-following module differ from the corresponding markings on the output pins,
+
+for example, if they do not match the provided diagram,
+
+please recalibrate and test by connecting only the VCC and GND pins to the line-following module.
+
+If the mismatch persists, please contact technical personnel for verification.
